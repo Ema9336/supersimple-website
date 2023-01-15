@@ -1,0 +1,36 @@
+div {
+  font-family: Arial;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  background-color: rgb(206, 130, 206);
+  color: white;
+  padding: 15px 15px;
+}
+.home-link {
+  font-weight: bold;
+  font-size: 18px;
+}
+.text-box {
+  width: 500px;
+  border: none;
+  margin-top: 1x;
+  margin-bottom: 1px;
+  height: 30px;
+  border-radius: 15px;
+  padding-left: 20px;
+  font-size: 16px;
+}
+button {
+  background-color: rgb(206, 130, 206);
+  color:white;
+  font-size: 16px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 2px;
+  padding: 8px 15px;
+}

@@ -1,0 +1,56 @@
+div {
+  font-family: Arial;
+}
+body {
+  height: 3000px;
+}
+
+.column-one {
+  position: fixed;
+  top:0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(29, 28, 28, 0.918);
+  width: 80px;
+  padding: 20px 20px;
+}
+
+
+.icon {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 40px;
+  margin-bottom: 10px;
+}
+.column-two {
+  background-color: rgb(63, 62, 62);
+  position: fixed;
+ 
+  left: 120px;
+  top:0;
+  bottom: 0;
+  width: 230px;
+  padding: 20px 20px;
+  margin-left: -1px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.title {
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+}
+.title-handle {
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(110, 106, 106);
+}
+.subtitle {
+  color:  rgb(110, 106, 106) ;
+  margin-bottom: 20px;
+}

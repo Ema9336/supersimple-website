@@ -1,0 +1,31 @@
+.flexbox {
+  display: flex;
+  flex-direction: row;
+}
+.lightpink {
+  background-color: lightpink;
+  width: 100px;
+}
+.lightblue-flexbox {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 60px;
+  background-color: lightblue;
+}
+.row1{
+  font-family: Arial;
+  margin-top: 5px;
+}
+.row2 {
+  font-family: Arial;
+  background-color: black;
+  color: white;
+  width: 35px;
+}
+.lightblue {
+  background-color: lightblue;
+  display: flex;
+  align-items: center;
+  
+}
