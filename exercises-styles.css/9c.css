@@ -1,0 +1,17 @@
+.div {
+  width:500px;
+  border-style: solid;
+  border-width: 1px;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-bottom: 30px;
+}
+.questionare {
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: 600;
+}
+.buttons {
+  font-family: Arial;
+  font-size: 14px;
+}

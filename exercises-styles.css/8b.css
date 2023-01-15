@@ -1,0 +1,11 @@
+.survey {
+  display: inline-block;
+  vertical-align: middle;
+  width: 200px;
+}
+.yes,
+.no {
+  font-size: 16px;
+  cursor: pointer;
+  vertical-align: middle;
+}

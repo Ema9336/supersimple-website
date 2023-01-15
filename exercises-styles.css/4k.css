@@ -1,0 +1,22 @@
+ .button-one,
+ .button-two,
+ .button-three
+ {
+  background-color: green;
+  color: white;
+  border: none;
+  font-size: 18px;
+  padding: 8px 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: padding 0.15s,
+  margin 0.15s;
+}
+.button-one:hover,
+.button-two:hover,
+.button-three:hover {
+  padding: 8px 26px;
+  margin-left: 0px;
+  margin-right: 0px;
+}

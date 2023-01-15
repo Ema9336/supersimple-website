@@ -1,0 +1,13 @@
+.deals {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 26px;
+  margin-bottom: 8px
+}
+.italic {
+font-family: Arial;
+font-style: italic;
+color: red;
+font-size: 18px;
+margin-top: 0;
+}

@@ -1,0 +1,30 @@
+.get-started {
+ background-color: rgb(121, 82, 179);
+ color: white;
+ border: none;
+ border-radius: 4px;
+ padding: 10px 18px;
+ margin-right: 6px;
+ cursor: pointer;
+ transition: opacity 0.15s;
+}
+.get-started:hover {
+  opacity: 0.8;
+}
+
+.download {
+  background-color: white;
+  color: rgb(108, 117, 125);
+  border-width: 0.005px;
+  border-color: rgb(108, 117, 125);
+  border-style: solid;
+  border-radius: 4px;
+  padding: 8px 16px;
+  cursor: pointer;
+  transition: background-color 0.15s,
+  color 0.15s;
+}
+.download:hover {
+  background-color: grey;
+  color:white
+}

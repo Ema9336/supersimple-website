@@ -1,0 +1,34 @@
+.apply{
+  background-color: rgb(10, 102, 194);
+  color:white;
+  border: none;
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 20px;
+  padding: 12px 24px; 
+  margin-right: 10px;
+  cursor: pointer;
+  transition:background-color 0.15s;
+}
+.apply:hover {
+  background-color: rgb(26, 92, 158) ;
+}
+.save {
+  background-color: white;
+  color: rgb(8, 55, 102);
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: rgb(10, 102, 194);
+  border-width: 1px;
+  padding: 11px 24px;
+  vertical-align: top;
+  cursor: pointer;
+  transition: border-width 0.15s,
+  background-color 0.15s;
+}
+.save:hover {
+  border-width: 2px;
+  background-color: rgb(246, 246, 255);
+}

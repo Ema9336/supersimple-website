@@ -1,0 +1,18 @@
+.div-box {
+  width: 400px;
+  height: 150px;
+  background-color: black;
+}
+.paragraph-1 {
+  color:white;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 23px;
+  padding-left: 20px;
+  padding-top: 25px;
+}
+.paragraph-2 {
+  color:rgb(160,160,160);
+  font-family: Arial;
+  padding-left: 20px;
+}

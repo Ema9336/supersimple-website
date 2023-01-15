@@ -1,0 +1,26 @@
+.name-tag {
+  padding: 10px 10px;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: 15px;
+}
+.email {
+  display: block;
+  width: 365px;
+  padding: 10px;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: 15px;
+}
+.signup {
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 10px;
+  background-color: rgb(46, 94, 252);
+  color: white;
+  border: none;
+  padding: 15px 160px;
+  cursor: pointer;
+}
